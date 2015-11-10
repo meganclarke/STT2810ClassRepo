@@ -35,7 +35,7 @@ Watch the following videos:
 * [Colaboration and time travel: version control with git, github and RStudio (48 minutes)](https://www.rstudio.com/resources/webinars/archives/)      
 * [Reproducible Reporting (58 minutes)](https://www.rstudio.com/resources/webinars/archives/) 
 
-* Test drive RStudio by following the directions from [Jenny Bryan's STAT 545 course](http://stat545-ubc.github.io/git05_first-use-git-rstudio.html).
+* Test drive RStudio by following the directions from [Jenny Bryan's STAT 545 course](https://stat545-ubc.github.io/git07_git-github-rstudio.html).
 
 * Select a data set you will work with and update your GitHub repository **README** with your chosen data set.  
 
@@ -314,7 +314,7 @@ Is there an appropriate explanation of the results including a post hoc test wit
 
 * Work on the **Chi-Square Assignment**. 
 * The **Chi-Square assignment** is due NLT 5 PM Friday (Oct 30).  Submit assignment
-via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Chi-Square Assignment** is (http://www.crowdgrader.org/).
+via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Chi-Square Assignment** is (https://www.crowdgrader.org/crowdgrader/venues/view_venue/1550).
 
 **Chi-Square Assignment** 
 
@@ -358,7 +358,7 @@ Is there a sentence or two describing the results of the Chi-Square test(s)? (0.
 
  
 * Work on the **Correlation Assignment**. 
-* The **Correlation Assignment** is due NLT 5 PM Friday (Nov 6).  Submit the assignment via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Correlation Assignment** is (http://www.crowdgrader.org).
+* The **Correlation Assignment** is due NLT 5 PM Friday (Nov 6).  Submit the assignment via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Correlation Assignment** is (https://www.crowdgrader.org/crowdgrader/venues/view_venue/1580).
 
 **Correlation Assignment** 
 
@@ -378,13 +378,11 @@ Is there a multivariate graph of the principal constructs the researcher is prop
 
 Do all graphs have the *x-* and *y-*axes labeled appropriately? (0.1). Do all graphs have descriptive titles? (0.1)
 
-Is there a section for the Correlation assignment describing the two numeric variables the author uses? (0.5)
+Is there a section for the Correlation assignment describing the two numeric variables the author uses? (0.6)
 
-Is there code and output for computing the correlation coeffiecient? (0.4)
+Is there code and output for computing and testing the correlation coefficient?  Is there a scatterplot with appropriate labels? (0.6)
 
-Does the author explain their results following the example in PDS? (0.3)
-
-Does the author explain their results? (graphs should be used in the explanation) (0.3)
+Does the author explain their results following the example in PDS (direction, form, strength, and outliers)? (0.6)
 
 #### Optional
 
@@ -399,8 +397,7 @@ Does the author explain their results? (graphs should be used in the explanation
 
  
 * Work on the the **Regression Assignment** 
-* The **Regression Assignment** is due NLT 5 PM Friday (Nov 13).  Submit the assignment
-via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Regression Assignment** is (http://www.crowdgrader.org/).
+* The **Regression Assignment** is due NLT 5 PM Friday (Nov 13).  Submit the assignment via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Regression Assignment** is (https://www.crowdgrader.org/crowdgrader/venues/view_venue/1592).
 
 **Regression Assignment** 
 
@@ -408,11 +405,15 @@ This is a continuation of the material submitted for the **Correlation** submitt
 
 #### Grading Rubric for **Regression Assignment** (PR#9)
 
+Does the document have sections that explain the Purpose of the Study (0.3), the Variables used in the study (0.3), and how the data was managed (0.4)?
+
+Is all of the data management done near the beginning of the document (0.5)? 
+
 Is there a section for the Regression assignment? (0.5)
 
-Is there code and output for testing appropriate models? (1.5)
+Is there code and output for testing appropriate regression models? (0.5)
 
-Does the author describe their results appropriately? (1)
+Does the author describe their regression results appropriately? (0.5)
 
 #### Optional
 
